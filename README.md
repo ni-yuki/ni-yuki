@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/f8c1bfed3ce07d2a41c2482394108f87/tumblr_omggpyNTcv1svkrcoo1_540.gif" width="400" alt="Cute pixel art GIF" />
+  <img src="https://64.media.tumblr.com/f8c1bfed3ce07d2a41c2482394108f87/tumblr_omggpyNTcv1svkrcoo1_540.gif" width="400" alt="Cute anime GIF" />
   
-  <h1 style="color: #FF99CC;">ꉂ(˵˃ ᗜ ˂˵) hi hi, i'm nickey!</h1>
+  <br>
+
+  <!-- Pink Greeting Header (Using an image bypasses GitHub's color block!) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&color=FF99CC&center=true&vCenter=true&width=800&lines=ꉂ(˵˃+ᗜ+˂˵)+hi+hi,+i'm+nickey!" alt="Pink Greeting" />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF99CC&center=true&vCenter=true&random=false&width=435&lines=⏔⏔⏔꒰+᧔+computer+science+student+᧓+꒱⏔⏔⏔" alt="Typing SVG" />
-  </a>
+  <br>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF99CC&center=true&vCenter=true&random=false&width=800&lines=⏔⏔⏔꒰+᧔+computer+science+student+᧓+꒱⏔⏔⏔" alt="Typing SVG" />
 </div>
